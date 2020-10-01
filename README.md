@@ -3,7 +3,7 @@
 
 你们的第一个和程序员相关的任务，就是学会使用git和GitHub，完成一次fork、clone、add、commit、push，并且发起一次pull request（简称pr），将自己想说的一句话push到本留言墙。
 
-为了体验一次完整的协作开发过程，请同学们不要直接在github.com这个网站中直接编辑`README.md`，请在本地使用命令行进行操作，或者在具有git功能的文本编辑器/IDE中进行。（直接在GitHub网站编辑的，commit记录右侧会有`Verified`标识。）
+为了体验一次完整的协作开发过程，请同学们不要直接在github.com这个网站中直接编辑`README.md`，请在本地使用命令行进行操作，或者在具有git功能的文本编辑器/IDE中进行。（直接在GitHub网站编辑的，commit记录右侧会有`Verified`标识，点开后会出现`This commit was created on GitHub.com`。）
 
 请在这个`README.md`里，写下你想说的一句话，并留下您的姓名和日期。
 
