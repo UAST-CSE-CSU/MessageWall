@@ -332,3 +332,9 @@
 
 #### Just try it.
 <p align = right>——钱文仪 2023/10/30</p>
+
+---------
+
+#### Everything that kills me makes me feel alive.
+<p align = right>——范逸航 2023/10/30</p>
+
