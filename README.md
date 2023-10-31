@@ -336,6 +336,7 @@
 
 ---------
 
+
 #### 既然我已经踏上这条道路，那么，任何东西都不应妨碍我沿着这条路走下去。
 
 <p align = right>——冉景成 2023/10/30</p>
@@ -345,3 +346,11 @@
 #### Within cells interlinked.
 
 <p align=right>——类桐 2023/10/31</p>
+
+---------
+
+#### Everything that kills me makes me feel alive.
+
+<p align = right>——范逸航 2023/10/30</p>
+
+---------
