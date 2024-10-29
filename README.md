@@ -360,3 +360,6 @@
 <p align = right>——王品呈 2023/11/18</p>
 
 ---------
+#### 为啥刚上GitHub大家都会markdown啊qaq.来CSU学CS啦
+<p align = right>--高特 2024/10/29</p>
+
