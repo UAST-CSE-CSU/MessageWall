@@ -424,13 +424,17 @@
 <p align = right>——张津涛 2024/11/5</p>
 
 ---------
+#### "Why do I keep hitting my head with a hammer? Cause it feels so good when I stop."
+<p align = right>——谷勤勤 2024/11/6</p>
+
+---------
 #### 纪念一下11.6怪奇物语日，让我成功一次吧。。
 <p align = right>——杨祎谌 2024/11/6</p>
 
-----------
+---------
+#### 路虽远，行则将至；事虽难，做则必成!
+<p align = right>——吴泳霖 2024/11/6</p>
 
+---------
 #### 与买桂花同载酒，终不似，少年游。
-
 <p align=right>——刘新浪 2024/11/8</p>
-
-----------
