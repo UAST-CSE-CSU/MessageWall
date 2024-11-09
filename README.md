@@ -385,7 +385,6 @@
 
 ---------
 #### 谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊。
-
 <p align = right>——杨子乂 2024/11/3</p>
 
 ---------
@@ -427,3 +426,7 @@
 ---------
 #### "Why do I keep hitting my head with a hammer? Cause it feels so good when I stop."
 <p align = right>——谷勤勤 2024/11/6</p>
+
+---------
+#### 纪念一下11.6怪奇物语日，让我成功一次吧。。
+<p align = right>——杨祎谌 2024/11/6</p>
