@@ -560,3 +560,7 @@
 <p align=right>——陈思诺 2026/11/10</p>
 
 ---------
+#### Life's not out to get you.
+<p align=right>——胡凯文 2026/11/10</p>
+
+---------
