@@ -556,3 +556,7 @@
 <p align=right>——宋镇宇 2026/11/10</p>
 
 ---------
+#### Be kind, for everyone fighting a bad battle'
+<p align=right>——陈思诺 2026/11/10</p>
+
+---------
